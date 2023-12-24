@@ -1,2 +1,2 @@
 # Hilman-Resume
-This is my resume by only using HTML.
+This is mini project to create my resume by only using HTML.
